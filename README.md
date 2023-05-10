@@ -1,1 +1,1 @@
-# newRepo1
+# sample mern stack
